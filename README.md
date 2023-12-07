@@ -1,5 +1,5 @@
 <p align="center">
-<img src="" alt="it's me" width="500">
+<img src="https://github.com/amitsing8576/amitsing8576/assets/134639939/2058a147-53b5-4546-b9b8-57091baa1c20" alt="it's me" width="500">
 </p>
 <h1 align="left">Hi there,I'm Amit 👋</h1>
 
