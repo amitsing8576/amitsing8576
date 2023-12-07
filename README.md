@@ -1,7 +1,7 @@
 <p align="center">
-<img src="https://github.com/amitsing8576/amitsing8576/assets/134639939/63263f95-d213-4450-963b-1ce76119abe0" alt="it's me" width="500">
+<img src="" alt="it's me" width="500">
 </p>
-<h1 align="center"></h1>
+<h1 align="center">Hi there,I'm Amit 👋</h1>
 ### Hi there,I'm Amit 👋
 
 <!--
