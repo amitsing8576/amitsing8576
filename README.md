@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://git Demo/amit.png" alt="it's me" width="100">
+</p>
+<h1 align="center">Amit Singh</h1>
 ### Hi there 👋
 
 <!--
