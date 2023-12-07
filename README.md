@@ -1,5 +1,5 @@
 <p align="center">
-<img src=""C:\Users\amits\OneDrive\Desktop\git Demo\amit.jpg"" alt="it's me" width="100">
+<img src="https://github.com/amitsing8576/amitsing8576/assets/134639939/63263f95-d213-4450-963b-1ce76119abe0" alt="it's me" width="100">
 </p>
 <h1 align="center"></h1>
 ### Hi there,I'm Amit 👋
