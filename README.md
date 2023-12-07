@@ -1,8 +1,8 @@
 <p align="center">
 <img src="" alt="it's me" width="500">
 </p>
-<h1 align="center">Hi there,I'm Amit 👋</h1>
-### Hi there,I'm Amit 👋
+<h1 align="left">Hi there,I'm Amit 👋</h1>
+
 
 <!--
 **amitsing8576/amitsing8576** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
